@@ -15,7 +15,6 @@ body{
   display: flex;
   font-family: 'League Spartan', sans-serif;
   min-height: 100vh;
-  font-weight: 500;
   width: 100vw;
   color: hsl(300, 43%, 22%);
   background-image: url("../images/bg-pattern-top-desktop.svg"),url("../images/bg-pattern-bottom-desktop.svg");
@@ -127,6 +126,7 @@ h1{
 
 .name{
   font-size: 1.13rem;
+  font-weight: 500;
 }
 
 .status{
